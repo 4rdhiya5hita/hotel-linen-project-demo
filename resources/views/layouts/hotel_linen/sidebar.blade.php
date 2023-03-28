@@ -159,31 +159,7 @@
             </ul>
           </li>
           
-          <!-- BILLING -->
-          <li class="nav-item">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-book"></i>
-              <p>
-                Billing Management
-                <i class="fas fa-angle-left right"></i>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="pages/examples/invoice.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Billing</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="pages/examples/profile.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Report</p>
-                </a>
-              </li>
-            </ul>
-          </li>
-
+         
           <!-- PRESET -->
           <li class="nav-item">
             <a href="#" class="nav-link">
